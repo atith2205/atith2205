@@ -1,4 +1,4 @@
-![logo]([https://github.com/atith2205/atith2205/blob/main/banner%20image.png](https://github.com/atith2205/atith2205/blob/main/wokout.png))
+![logo](https://github.com/atith2205/atith2205/blob/main/wokout.png)
 
 <h1 align="center">Hi 👋, I'm Atith Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
