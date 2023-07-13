@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **atith22patel@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16868Oj2tcvNl4UfmaTDES0Gv_xmOqRO1/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/16868Oj2tcvNl4UfmaTDES0Gv_xmOqRO1/view?usp=drive_link](https://drive.google.com/file/d/16868Oj2tcvNl4UfmaTDES0Gv_xmOqRO1/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
