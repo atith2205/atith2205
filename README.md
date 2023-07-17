@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **React Js.**
+- 🌱 I’m currently learning **Data Science and Machine Learning.**
 
 - 💬 Ask me about *html, css, java, python, c.*
 
