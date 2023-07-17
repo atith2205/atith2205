@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *atith22patel@gmail.com*
 
-- 📄 Know about my experiences(Recently completed my computer engineering with CGPI of 8.57) [My Resume](https://drive.google.com/file/d/16868Oj2tcvNl4UfmaTDES0Gv_xmOqRO1/view?usp=sharing)
+- 📄 Know about my experiences (Recently completed my computer engineering with CGPI of 8.57) [My Resume](https://drive.google.com/file/d/16868Oj2tcvNl4UfmaTDES0Gv_xmOqRO1/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atith.patel.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atith_____patel______) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atithpatel22)
