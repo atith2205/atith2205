@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Data Science and Machine Learning.**
+- 🌱 I’m currently pursing **Master of Data Analytics at University of Niagara Falls Canada.**
 
 - 💬 Ask me about *html, css, java, python, c.*
 
