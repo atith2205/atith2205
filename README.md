@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently pursing **Master of Data Analytics at University of Niagara Falls Canada.**
 
-- 💬 Ask me about *html, css, java, python, c.*
+- 💬 Ask me about *Python, Machine Learning, LLM, Artificial Intelligence.*
 
 - 📫 How to reach me *atith22patel@gmail.com*
 
