@@ -1,29 +1,88 @@
-![logo](https://github.com/atith2205/atith2205/blob/main/wokout%20(1).jpg)
+![Header](https://github.com/atith2205/atith2205/blob/main/wokout%20(1).jpg)
 
-<h1 align="center">Hi 👋, I'm Atith Patel</h1>
-<h3 align="center">
-I am a skilled computer engineer with expertise in software programming, data structures, and algorithms, developed through focused coursework and hands-on practice. Passionate about AI, machine learning, and data science, I aim to create innovative solutions for complex problems. I excel in teamwork, quick adaptation to new technologies, and problem-solving under pressure, complemented by strong leadership and effective communication skills.
-</h3>
-<img align="right" width="400"src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atith2205&label=Profile%20views&color=0e75b6&style=flat" alt="atith2205" /> </p>
+<h1 align="center">👋 Hi there, I'm Atith Patel</h1>
+<h3 align="center">🚀 Data Enthusiast | AI & ML Explorer | Full-Stack Engineer</h3>
 
-# 💫 About Me:
+<p align="center">
+🎓 Master’s in Data Analytics @ University of Niagara Falls, Canada <br/>
+💡 Passionate about turning data into actionable insights and scalable tech solutions <br/>
+📌 Seeking Summer 2025 internship roles in Data Science, Analytics, or AI/ML
+</p>
 
-- 🌱 I’m currently pursing **Master of Data Analytics at University of Niagara Falls Canada.**
+---
 
-- 💬 Ask me about *Python, Machine Learning, LLM, Artificial Intelligence.*
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://facebook.com/atith.patel.3"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" /></a>
+<a href="https://linkedin.com/in/atithpatel22"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
-- 📫 How to reach me *atith22patel@gmail.com*
+---
 
-- 📄 Know about my experiences (Recently completed my computer engineering with CGPI of 8.57) [My Resume](https://drive.google.com/file/d/1z41QbexRSDGUtNmrqd_OuUHgj0ZPgHvl/view?usp=sharing)
+## 🧠 About Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atith.patel.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atith_____patel______) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atithpatel22)
+As a Data Analytics graduate student and a Computer Engineering graduate, I bring a unique blend of software development, data science, and leadership skills. With a strong foundation in data structures and algorithms, I specialize in:
 
-# 💻 Tech Stack:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- 💻 Full-stack web development (React, Next.js, Node.js, MongoDB)
+- 📊 Data analytics and machine learning (Python, R, scikit-learn, TensorFlow)
+- ☁️ Cloud and DevOps practices (Azure, GitHub CI/CD, Postman)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atith2205&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=atith2205&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atith2205&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm known for my adaptability, fast learning, and collaborative mindset—always excited to tackle challenging problems through creative tech solutions.
+
+---
+
+## 💼 Experience Snapshot
+
+**🔹 Pascali Technologies – Dev Team Lead (DTXSuite)**  
+→ Spearheaded the development of UI/UX, RESTful APIs, and automation workflows  
+→ Mentored junior devs, optimized CI/CD, and led secure data integration
+
+**🔹 Logic Cube IT – Web Developer**  
+→ Built MGSG (prenatal care app) and EMS-RSVP (event system) using React + Next.js  
+→ Delivered responsive designs, integrated MongoDB, and ensured cross-device support
+
+---
+
+## 📌 Project Highlights
+
+**📅 EMS-RSVP:**  
+A real-time event tracking system with user analytics and secure auth.  
+Tech: React.js, Tailwind CSS, MongoDB, JWT
+
+**🧠 DTXSuite:**  
+Automated B2B solution for auto industry with dynamic dashboards and modular components.
+
+---
+
+## 🎯 Career Goals
+
+I'm currently open to **Data Science / ML / Analytics internship opportunities** for Summer 2025. My mission is to contribute to organizations focused on impactful, data-driven innovations that make the world smarter, one algorithm at a time.
+
+📫 Reach me at: **atith22patel@gmail.com**  
+📄 [View My Resume](https://drive.google.com/file/d/11aECPmWtG7kThv7KqdfjAZktwL5jEAOb/view?usp=sharing)
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, JavaScript, Java, R, Dart  
+**Frameworks & Libraries:** React, Next.js, Tailwind, Django, Bootstrap  
+**ML & Data Science:** TensorFlow, PyTorch, scikit-learn, OpenCV, Pandas, NumPy, Seaborn  
+**Databases:** MongoDB, MySQL, Oracle (PL/SQL)  
+**Tools:** Git, Postman, VS Code, Jupyter, PyCharm  
+**Cloud & DevOps:** Azure, GitHub Actions, Docker (basic)  
+**Other:** Android, Flutter, Unity, Adobe Suite, Hadoop, Hive
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=atith2205&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=atith2205&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atith2205&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</p>
