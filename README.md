@@ -1,4 +1,5 @@
-![Header](https://github.com/atith2205/atith2205/blob/main/wokout%20(1).jpg)
+
+![MasterHead](https://www.blueoceanglobaltech.com/wp-content/uploads/2021/08/Data-Science-Banner.jpg)
 
 <h1 align="center">👋 Hi there, I'm Atith Patel</h1>
 <h3 align="center">🚀 Data Enthusiast | AI & ML Explorer | Full-Stack Engineer</h3>
