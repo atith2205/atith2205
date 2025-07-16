@@ -6,7 +6,7 @@
 
   <!-- Animated Typing Effect -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=5C7AEA&center=true&vCenter=true&width=800&lines=%F0%9F%93%9A+Master%E2%80%99s+in+Data+Analytics+%40+University+of+Niagara+Falls;%F0%9F%92%A1+Building+Intelligent+Systems+at+the+Edge+of+Data+%26+Engineering;%F0%9F%93%8C+Seeking+Summer+2025+Data+Science%2FAI+Internships" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=5C7AEA&center=true&vCenter=true&width=1000&lines=%F0%9F%93%9A+Master%E2%80%99s+in+Data+Analytics+%40+University+of+Niagara+Falls;%F0%9F%92%A1+Building+Intelligent+Systems+at+the+Edge+of+Data+%26+Engineering;%F0%9F%93%8C+Seeking+Summer+2025+Data+Science%2FAI+Internships" alt="Typing SVG">
   </p>
 </div>
 
