@@ -24,9 +24,9 @@
   <a href="mailto:atith22patel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="[https://drive.google.com/file/d/11aECPmWtG7kThv7KqdfjAZktwL5jEAOb/view]" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
-  </a>
+  <a href="https://drive.google.com/file/d/1xor-YdT9mBSOdqXlmdB-xvHMOugZmTLK/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+</a>
 </p>
 
 ---
